@@ -1,0 +1,5 @@
+##Lista de comandos Linux
+pwd         -   Mostra o caminho de diretorio
+git status  -   Mostra o estado de seus aruivos não salvos em repositorio
+git commit  -   Envia o arquivo para commit
+git branch  -   Mostra os branchs
